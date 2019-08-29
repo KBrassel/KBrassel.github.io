@@ -1,0 +1,69 @@
+body{
+	background-color: #0cb8c4;
+}
+header{
+	background-color: #c49c0c;
+	background-image: url("Holy Spirit.jpg");
+	background-position: right;
+	background-repeat: no-repeat;
+	height: 150px;
+	padding: 5px;
+	padding-left:20px;
+}
+footer{
+	background-color: #71f207;
+	text-align: center;
+	padding: 5px;
+}
+#content{
+	background-color: #f50cde;
+	padding: 15px;
+}
+#content2{
+	background-color: #f50cde;
+	padding: 15px;
+	min-height: 1950px;
+}
+#content3{
+	background-color: #f50cde;
+	padding: 5px;
+	min-height: 650px;
+}
+header, footer, #content{
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width:80%;
+	box-shadow:5px 5px 5px black;
+}
+h1{
+	color: black;
+	font-size:200%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h2{
+	color: black;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+h3{
+	color: black;
+	font-size:200%;
+	font-family: "Comic Sans MS", cursive, sans-serif;	
+}
+h4{
+	color: black;
+	font-size:200%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h5{
+	color: black;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.floatImg{
+	float: left;
+	margin: 0px 10px;
+}
